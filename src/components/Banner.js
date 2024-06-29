@@ -91,7 +91,7 @@ export const Banner = () => {
 										full-stack web applications.
 									</p>
 									<div>
-										<a href="https://drive.google.com/drive/u/0/folders/1OP_gqRK_72vGrXP699aICpP4SWxv3_Rzhttps://drive.google.com/file/d/1z-U6rBS0eXe3xhknngHwVLNpf6tzrWBE/view">
+										<a href="https://drive.google.com/file/d/1z-U6rBS0eXe3xhknngHwVLNpf6tzrWBE/view">
 											<h3>Resume</h3>
 										</a>
 									</div>
